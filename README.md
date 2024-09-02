@@ -3,6 +3,8 @@
 
 This is a simple and intuitive ToDo application built with ReactJS. The app allows users to manage their tasks efficiently with features like adding, editing, completing, and deleting tasks. Additionally, users can search through tasks using a search bar, and the app includes a visually appealing header with a custom icon.
 
+## Application is hosted in `https://reactjs-todo-application123.netlify.app/`
+
 ## Features
 
 - **Add Tasks**: Quickly add new tasks to your ToDo list.
@@ -45,7 +47,7 @@ To get started with the ToDo application, follow these steps:
    npm start
    ```
 
-   The application will be available at `http://localhost:3000` in your browser.
+   The application will be available at `https://reactjs-todo-application123.netlify.app/` in your browser.
 
 ## Usage
 
