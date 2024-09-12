@@ -17,9 +17,6 @@ This is a simple and intuitive ToDo application built with ReactJS. The app allo
 - **Local Storage**: Tasks are saved in the browser's local storage, ensuring they persist across sessions.
 - **Responsive Design**: The app is fully responsive and works well on both desktop and mobile devices.
 
-## Screenshots
-
-![Screenshot of the ToDo Application](./screenshots/todo-app-screenshot.png)
 
 ## Installation
 
